@@ -9,13 +9,13 @@ Melhorar a assertividade da escolha do tratamento do Câncer de Mama a partir de
   - Link do repositório: 
 
 - Grupo 2 - Smart Health - Tempo de sobrevida das pacientes:
-  - Link do repositório: https://github.com/2022M3T5-inteli/O-Oraculo
+  - Link do repositório: https://github.com/2022M3T5-inteli/SmartHealth
   
 - Grupo 3 - Pink.ai - Modelo preditivo da variabilidade da evolução do câncer de mama:
-  - Link do repositório: https://github.com/2022M3T5-inteli/Agamotto
+  - Link do repositório: 
   
 - Grupo 4 - Connect I.A. - Modelo de Predição USP Medicina:
-  - Link do repositório: https://github.com/2022M3T5-inteli/PredTV
+  - Link do repositório: 
   
 - Grupo 5 - USPI.A. - Prognóstico Inteligente de Câncer de Mama(PICM):
-  - Link do repositório: https://github.com/2022M3T5-inteli/Jupyters
+  - Link do repositório: 

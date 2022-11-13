@@ -15,7 +15,7 @@ Melhorar a assertividade da escolha do tratamento do Câncer de Mama a partir de
   - Link do repositório: https://github.com/2022M3T4-Inteli/Pink.ai
   
 - Grupo 4 - Connect I.A. - Modelo de Predição USP Medicina:
-  - Link do repositório: https://github.com/2022M3T4-Inteli/Connect-I.A.
+  - Link do repositório: https://github.com/2022M3T4-Inteli/Connect-IA
   
 - Grupo 5 - USPI.A. - Prognóstico Inteligente de Câncer de Mama(PICM):
-  - Link do repositório: https://github.com/2022M3T4-Inteli/USPI.A.
+  - Link do repositório: https://github.com/2022M3T4-Inteli/USPIA

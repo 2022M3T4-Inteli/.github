@@ -1,7 +1,12 @@
 # 🙋‍ 2022.2 - Módulo Modelo Preditivo - Turma 4 - USP Medicina
+## 🔍 O problema:
+Imprevisibilidade do prognóstico de pacientes com câncer de mama. Por que algumas pacientes respondem bem ao tratamento e outras não?
 
 ## 🎯 O objetivo:
 Melhorar a assertividade da escolha do tratamento do Câncer de Mama a partir de modelos preditivos, com base nos dados clínico-laboratoriais, visando um apoio a previsão da variabilidade do câncer de mama.
+
+## 🧩 O público-alvo:
+Médicos e gestores do Sistema de Saúde.
 
 ## 💻 Lógica para predição com inteligência artificial:
 
